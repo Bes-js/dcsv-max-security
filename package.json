@@ -1,0 +1,31 @@
+{
+  "name": "dcsv-max-security",
+  "version": "1.0.0",
+  "description": "IP'den Çoklu Hesap Engelleme Koyulmuş Proxy Bağlarsınız ByPass Edersiniz, Can Sıkıntısından Paylaşıyom Hadi bb UwU.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "dcsv",
+    "vote",
+    "fake-vote",
+    "discord",
+    "bypass"
+  ],
+  "author": {
+    "name": "Bes-js",
+    "url": "https://github.com/Bes-js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "proxy-agent": "^6.4.0",
+    "tesseract.js": "^5.0.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
